@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # untitled4
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# GenealogyVisualization
+>>>>>>> 7050bb934994ed263b6ae530c2d815a64be46a64
